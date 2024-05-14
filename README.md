@@ -1,4 +1,4 @@
-# beyond_thresholds
+# batteryless_ml
 (IoTDI 2024) Demo Abstract: A Prototype for Machine Learning with Batteryless Sensors
 ![Alt text](./batteryless_ml.svg)
 ![Alt text](./gui.png)
